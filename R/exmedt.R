@@ -739,3 +739,4 @@ FuncExit = function(PID){
     return("No process needs exit. Thanks for using ExposomeX platform!")
   }
 }
+
